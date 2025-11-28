@@ -28,9 +28,9 @@ print(x < y)   # True
 - **`or`**: Returns True if **at least one** statement is true.
 - **`not`**: Reverse the result.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="logic-gate.jpeg" width="300">
-</div>
+</p>
 <!-- end list -->
 
 ```python
