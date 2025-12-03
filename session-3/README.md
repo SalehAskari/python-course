@@ -167,3 +167,9 @@ for hour in range(3): # 0, 1, 2
 2 * 2 = 4
 ...
 ```
+
+### ۶. الگو ها
+
+<p align="center">
+  <img src="Pattern-in-Python.webp" width="300">
+</p>
